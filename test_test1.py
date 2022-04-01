@@ -4,3 +4,6 @@ def test_mock():
 
 def test_first():
   assert 1 == True
+
+def test_second():
+  assert 0 == True
